@@ -1,3 +1,4 @@
+# sum of the even-numbers bellow 4000000 in the Fibonacci Sequence.
 a = 1
 b = 1
 c = a + b
@@ -11,3 +12,4 @@ while c <= 4000000:
         soma += c
 
 print(soma)
+
