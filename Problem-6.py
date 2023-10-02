@@ -1,3 +1,5 @@
+# this program find the diference between the sum of the squares and the square of the sum
+# of the first one hundred natural numbers  
 import math as m
 
 numeros = []
