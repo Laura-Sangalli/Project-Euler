@@ -4,9 +4,6 @@ def division(num):
             return -1
     return 0
 
-
-
-
 i = 1
 ls = [2]
 num = 3
